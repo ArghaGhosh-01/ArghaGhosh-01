@@ -1,5 +1,10 @@
 <img src="name3.png" alt="name"/>
-<img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Monospace&color=%9E6EFF&size=35&center=true&vCenter=true&width=600%&lines=Argha+Ghosh"/>
+<svg width="600" height="50" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Monospace" font-size="35" fill="#9E6EFF">
+    Argha Ghosh
+  </text>
+</svg>
+
 <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Monospace&color=%9E6EFF&size=35&center=true&vCenter=true&width=600%&lines=Front+End+Developer;Machine+Learning+Enthusiast;Web+Designer"/>
 
 <img align="right" height="200" margin="5px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
