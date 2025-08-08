@@ -1,9 +1,4 @@
 <img src="name3.png" alt="name"/>
-<svg width="600" height="50" xmlns="http://www.w3.org/2000/svg">
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Monospace" font-size="35" fill="#9E6EFF">
-    Argha Ghosh
-  </text>
-</svg>
 
 <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Monospace&color=%9E6EFF&size=35&center=true&vCenter=true&width=600%&lines=Front+End+Developer;Machine+Learning+Enthusiast;Web+Designer"/>
 
