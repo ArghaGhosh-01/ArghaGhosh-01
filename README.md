@@ -1,4 +1,8 @@
 <img src="name3.png" alt="name"/>
+<img align=center width=100% src="https://readme.herokuapp.com?font=Monospace&color=%9E6EFF&size=35&center=true&vCenter=true&width=600%&lines=Argha+Ghosh"/>
+
+
+make this still, dont use typing effect
 
 <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Monospace&color=%9E6EFF&size=35&center=true&vCenter=true&width=600%&lines=Front+End+Developer;Machine+Learning+Enthusiast;Web+Designer"/>
 
